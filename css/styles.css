@@ -668,11 +668,11 @@ ol {
   position: relative;
 }
 
-.projects:hover .project-cover-text {
+.main-link:hover .project-cover-text {
   transform: translateY(0);
 }
 
-.projects:focus .project-cover-text {
+.main-link:focus .project-cover-text {
   transform: translateY(0);
 }
 
